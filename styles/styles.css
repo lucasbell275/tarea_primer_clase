@@ -24,29 +24,24 @@ html {
   background-color: whitesmoke;
   max-width: 1224px;
   margin: 0 auto;
-  
 }
 nav a:hover {
-  color:var(--color-secundario);
-  
+  color: var(--color-secundario);
 }
-form{
-    border-right: solid;
-    border-left: solid;
-    border-width: 1px;
-    margin: 2px 0px 2px 2px;
+form {
+  border-right: solid;
+  border-left: solid;
+  border-width: 1px;
+  margin: 2px 0px 2px 2px;
 }
-form label{
-  margin: 0px 10px 0px 5px
+form label {
+  margin: 0px 10px 0px 5px;
 }
-form button{
-  margin: 0px 0px 0px 5px
+form button {
+  margin: 0px 0px 0px 5px;
 }
-#smallfooter{
-  color:indigo;
+#smallfooter {
+  color: indigo;
   border-bottom: solid;
   border-width: 1px;
 }
-
-
-
