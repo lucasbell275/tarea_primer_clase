@@ -23,3 +23,5 @@ https://www.w3schools.com/css/css_border.asp
 https://www.w3schools.com/css/css_colors.asp
 
 https://www.w3schools.com/css/css_margin.asp
+
+Imagen utilizada en el proyecto perteneciente a UTN E-Learning.
